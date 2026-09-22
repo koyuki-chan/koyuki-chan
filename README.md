@@ -1,16 +1,16 @@
-## Hi there 👋
+# Charlie
 
-<!--
-**koyuki-chan/koyuki-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate interested in software development and AI.
 
-Here are some ideas to get you started:
+[![Live Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-blue?style=flat-square)](https://charlie-portfolio-five.vercel.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+- 🤖 Smart Waiter — Multimodal AI-powered café service system
+- 🛡️ AI Anti-Fraud Chatbot — BERT-based fraud detection and LLM explanation
+
+### Tech
+
+React · TypeScript · Java · Python · FastAPI · PyTorch · SQL · Linux
+
+[GitHub](https://github.com/koyuki-chan)
